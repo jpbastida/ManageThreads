@@ -11,6 +11,7 @@ namespace ManageThreads
     {
         static double[] data = new double[10];
 
+
         static void Main(string[] args)
         {
             int count = int.Parse(Console.ReadLine());
